@@ -46,6 +46,7 @@ Using [Package Control](http://wbond.net/sublime_packages/package_control), a
 package manager for Sublime Text 2.
 
 In Sublime Text 2, press "cmd + shift + p" and then type "install" (Mac OSX).
+
 In Sublime Text 2, press "ctrl + shift + p" and then type "install" (Linux).
 
 Once you see "Package Control: Install Package", enter.
